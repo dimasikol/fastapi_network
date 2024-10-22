@@ -1,0 +1,1 @@
+from db.settings.settings import create_db_and_table
